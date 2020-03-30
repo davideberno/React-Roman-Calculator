@@ -1,0 +1,15 @@
+.auto-scaling-text {
+  padding: 0 30px;
+
+  position: absolute;
+  &.down {
+    right: 0;
+    bottom: 0;
+    transform-origin: right;
+  }
+  &.up {
+    left: 0;
+    top: 0;
+    transform-origin: left;
+  }
+}
