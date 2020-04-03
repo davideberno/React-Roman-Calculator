@@ -1,8 +1,7 @@
 The roman calculator is an app developed with React that does simple math operations in both arabic and roman numbers.
 Constraints for the arabic to roman conversion:
 
-- n∈ℤ
-- n>0
+- 0 < n < 3999
 
 # How to fork and clone
 
